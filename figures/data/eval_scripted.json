@@ -1,0 +1,9 @@
+{
+  "controller": "scripted",
+  "num_envs": 32,
+  "steps": 800,
+  "episodes_finished": 65,
+  "success_rate": 0.0,
+  "mean_gates_passed": 1.338,
+  "mean_episode_length": 190.03
+}
